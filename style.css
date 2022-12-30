@@ -1,0 +1,8 @@
+.formCalcul .sectionCalcul {
+  margin: 0.938rem; /* 15px */
+}
+.form-container{
+  display: flex;
+  justify-content: space-around;
+}
+
